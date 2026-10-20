@@ -3,4 +3,4 @@ Trying to build my first website
 
 ---
 
-![Views](https://komarev.com/ghpvc/?username=Rujul-Rumale&repo=webtest1&label=Views&color=0e75b6)
+![Views](https://hits.sh/github.com/Rujul-Rumale/webtest1.svg?style=flat-square&label=views&color=0e75b6&labelColor=555)
